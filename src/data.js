@@ -53,7 +53,7 @@ export const testimonials = [
 export const skills = [
   'JavaScript',
   'React',
-  'Solidity',
+  'Smart Contract Development',
   'Tailwind',
   'SASS',
   'Node',

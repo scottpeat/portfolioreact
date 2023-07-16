@@ -11,13 +11,13 @@ const About = () => {
             src="./Selfie2.jpg"
           />
         </div>
-        <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+        <div className="lg:flex-grow md:w-1/2 lg:pr-24 items-center text-center md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white text-center">
             Hi, I'm Scott
             <br className="hidden lg:inline-block" />A Front-end Web Developer
           </h1>
-          <p className="mb-8 leading-relaxed ">Specialising in Web 3.0</p>
-          <div className="flex justify-center mt-4">
+          <p className="mb-8 leading-relaxed">Specialising in Web 3.0</p>
+          <div className="flex justify-center items-center mt-4">
             <a
               href="#contact"
               className="inline-flex text-white bg-blue-600 border-0 py-2 px-6 focus:outline-none hover:bg-blue-400 rounded text-lg"
